@@ -1,6 +1,7 @@
-Foursquare Connected App PHP Quick Template
+# Foursquare Connected App PHP Quick Template
+=================================================================================
 
-Setup on Foursquare
+## Setup on Foursquare
 
 Go to https://foursquare.com/developers/apps and create a new app
 
@@ -18,7 +19,7 @@ Fill in all the information required however you want, except:
 
 6. Copy down your Client id and Client secret and insert them into index.html and login.php
 
-The files:
+## The files
 
 index.html - Simple button that starts the authentication process.  This will take the user to a foursquare login page.
 
