@@ -11,7 +11,7 @@ Fill in all the information required however you want, except:
 
 2. Set "Push API Notifications" to "Push checkins by this app's users"
 
-3. Set the "Push url" to where you put 4sqpush.php
+3. Set the "Push url" to where you put 4sqpush.php (Must be https://...)
 
 4. Check the "New users can connect via the web" option
 
