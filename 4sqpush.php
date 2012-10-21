@@ -1,6 +1,7 @@
 <?php
 
 //Once a user authenticates with your app, foursquare will push all of their checkin data to this script at each checkin
+//This file needs to be on a server that can be accessed securely (i.e.  https://.../4sqpush.php)
 
 $obj = json_decode($_REQUEST['checkin']);
   
