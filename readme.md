@@ -7,7 +7,7 @@ Go to https://foursquare.com/developers/apps and create a new app
 
 Fill in all the information required however you want, except:
 
-1. Set the "Callback url" to where you put login.php
+1. Set the "Redirect URI" to where you put login.php
 
 2. Set "Push API Notifications" to "Push checkins by this app's users"
 
